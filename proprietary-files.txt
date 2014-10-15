@@ -246,7 +246,6 @@ vendor/lib/egl/eglsubAndroid.so
 vendor/lib/egl/libEGL_adreno.so
 vendor/lib/egl/libGLESv1_CM_adreno.so
 vendor/lib/egl/libGLESv2_adreno.so
-vendor/lib/egl/libplayback_adreno.so
 vendor/lib/egl/libq3dtools_adreno.so
 vendor/lib/libacdbloader.so
 vendor/lib/libacdbmapper.so
@@ -349,7 +348,6 @@ vendor/lib/libsc-a3xx.so
 vendor/lib/libscve.so
 vendor/lib/libscve_stub.so
 vendor/lib/libssd.so
--vendor/lib/libtime_genoff.so
 vendor/lib/libwvm.so
 vendor/lib/libWVStreamControlAPI_L1.so
 vendor/lib/rfsa/adsp/libdspCV_skel.so
